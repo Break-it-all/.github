@@ -15,7 +15,7 @@
 설명..
 
 
-# 시스템 아키텍처
+## 시스템 아키텍처
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/326d8bea-7cd3-485f-bbf9-b94daf6e13cc"></div>
 
 
