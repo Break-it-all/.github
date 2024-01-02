@@ -12,9 +12,20 @@
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/abec01cb-b132-4801-8c92-0eb096699345"></div>
 
 ## 프로젝트 소개
-Bita 서비스는 페어프로그래밍과 멀티프로그래밍을 웹사이트에서 진행할 수 있도록 구현한 웹 IDE 서비스입니다
+Bita 서비스는 음성 채팅 구현을 위한 WebRtc와 CRDT 구현을 위한 WebSocket을 활용하여 페어프로그래밍과 멀티프로그래밍을 웹사이트에서 진행할 수 있도록 구현한 웹 IDE 서비스입니다.
 
 ## 시스템 아키텍처
+환경 문제로 생기는 에러를 방지하기위해 docker-compose를 미리 셋팅하여 개발하였고, 웹 서버 라우팅 기능을 위해 nginx를 사용했습니다.
+
+
+프론트엔드 개발 시 사용한 기술스택으로는 react, 컴파일 단에서 타입 에러를 방지하기 위한 typescript, react 상태 관리를 편하게 하기 위한 redux, css프레임워크로 tailwindcss를 사용하였습니다.
+
+
+코드 컴파일 오픈 소스인 CodeX를 사용하여 컴파일 기능을 구현했고, 코드 저장하는 용도로 S3를 사용했습니다.
+
+
+사용자 정보를 빠르게 조회할 수 있도록 redis에 refresh-token을 저장했습니다.
+
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/326d8bea-7cd3-485f-bbf9-b94daf6e13cc"></div>
 
 
