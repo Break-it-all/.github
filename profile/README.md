@@ -11,28 +11,38 @@
 # BITA
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/abec01cb-b132-4801-8c92-0eb096699345"></div>
 
+## 프로젝트 소개
+설명..
+
 
 # 시스템 아키텍처
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/326d8bea-7cd3-485f-bbf9-b94daf6e13cc"></div>
 
 
+## TECH-STACKS
 
-# 기능 소개
-회원가입
+|Frontend|Backend|Database&Storage|DevOps| 
+| :----: | :---: |   :---------:  | :--: |
+|<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><br><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"><br>|<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><br><img src="https://img.shields.io/badge/Spring-37814A?style=for-the-badge&logo=Spring&logoColor=white"><br><img src="https://img.shields.io/badge/SpringBoot-85EA2D.svg?style=for-the-badge&logo=SpringBoot&logoColor=white">|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><br>|<img src="https://img.shields.io/badge/Amazon EC2 -FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"><br><img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white"><br><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><br> |
+
+
+## 문서
+문서...
+
+## 기능 소개
+### 회원가입/로그인
 ![회원가입](https://github.com/Break-it-all/.github/assets/83001865/4f8529f1-4cdd-4151-90f1-e859619ebc13)
 
-
-컨테이너
+### 컨테이너 CRUD
 ![컨테이너](https://github.com/Break-it-all/.github/assets/83001865/efa74aa5-0f03-4213-ab5e-101aa5f5bd57)
 
-
-멀티 프로그래밍
-![멀티 프로그래밍](https://github.com/Break-it-all/.github/assets/83001865/524ca670-e3ce-4752-9cea-4317e8b862eb)
-
-페어 프로그래밍
+### 페어 프로그래밍
 ![페어 프로그래밍](https://github.com/Break-it-all/.github/assets/83001865/648f10d0-ee18-49e8-86c7-d1e8e8bc917c)
 
-음성 채팅
+### 멀티 프로그래밍
+![멀티 프로그래밍](https://github.com/Break-it-all/.github/assets/83001865/524ca670-e3ce-4752-9cea-4317e8b862eb)
+
+### 음성 채팅
 ![음성 채팅](https://github.com/Break-it-all/.github/assets/83001865/41466533-25ae-4fb0-913e-f636a4d50f7a)
 
 
