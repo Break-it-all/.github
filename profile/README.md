@@ -20,13 +20,78 @@
 ![음성 채팅](https://github.com/Break-it-all/.github/assets/83001865/41466533-25ae-4fb0-913e-f636a4d50f7a)
 
 
-<!--
 
-**Here are some ideas to get you started:**
+## 팀 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<table width="500" align="center">
+<tbody>
+<tr>
+<th>Pictures</th>
+<td width="100" align="center">
+<a href="https://github.com/choiminwoo98">
+<img src="https://avatars.githubusercontent.com/u/61531483?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/rnignon">
+<img src="https://avatars.githubusercontent.com/u/86004439?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/wlstnam">
+<img src="https://avatars.githubusercontent.com/u/127458907?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/hstla">
+<img src="https://user-images.githubusercontent.com/97827316/215991535-aa0d5aeb-363c-41a7-a114-c1448d58d9f1.png"" width="60" height="60">
+</a>
+</td>
+</tr>
+<tr>
+<th>Name</th>
+<td width="100" align="center">최민우</td>
+<td width="100" align="center">김민형</td>
+<td width="100" align="center">남진수</td>
+<td width="100" align="center">황현성</td>
+</tr>
+<tr>
+<th>Position</th>
+<td width="150" align="center">
+Frontend<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+</td>
+</tr>
+<tr>
+<th>GitHub</th>
+<td width="100" align="center">
+<a href="https://github.com/choiminwoo98">
+<img src="http://img.shields.io/badge/choiminwoo98-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/rnignon">
+<img src="http://img.shields.io/badge/rnignon-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/wlstnam">
+<img src="http://img.shields.io/badge/wlstnam-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/hstla">
+<img src="http://img.shields.io/badge/hstla-green?style=social&logo=github"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
