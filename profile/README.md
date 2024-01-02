@@ -12,8 +12,7 @@
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/abec01cb-b132-4801-8c92-0eb096699345"></div>
 
 ## 프로젝트 소개
-설명..
-
+Bita 서비스는 페어프로그래밍과 멀티프로그래밍을 웹사이트에서 진행할 수 있도록 구현한 웹 IDE 서비스입니다
 
 ## 시스템 아키텍처
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/326d8bea-7cd3-485f-bbf9-b94daf6e13cc"></div>
@@ -27,14 +26,22 @@
 
 
 ## 문서
+
 ### JIRA
+
 부족한 개발 기간으로 Github-flow 브랜치 전략를 사용해서 협업하고 JIRA를 사용해서 1주단위로 스프린트를 관리했습니다.
+
 <div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/b8bf501b-a6a1-4db5-8f35-2492cbedeed4"></div>
 
+### 피그마
+<div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/bae58273-aad2-4683-9e18-d4cfc52ff8ea"></div>
 
-<div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/a0af5ebd-b976-49b4-9fdb-09f01f25c086"></div>
+### ERD
+<div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/b8343992-ddf9-4957-9e2a-e42a53757f7b"></div>
 
-
+### API 문서화
+<div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/46791c0d-bc6d-45eb-8469-14b175402224"></div>
+<div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/06f417fa-7eaf-4462-b15d-43f4387457ca"></div>
 
 
 ## 기능 소개
