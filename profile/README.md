@@ -117,13 +117,13 @@ WebRTC 이용을 위해 시그널링 서버를 구현하여 SDP(서로의 음성
 Frontend<br>
 </td>
 <td width="150" align="center">
-Frontend, Backend<br>
+Frontend Backend<br>
 </td>
 <td width="150" align="center">
-Frontend, Backend<br>
+Frontend Backend<br>
 </td>
 <td width="150" align="center">
-Frontend, Backend<br>
+Frontend Backend<br>
 </td>
 </tr>
 <tr>
