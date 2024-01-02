@@ -1,7 +1,23 @@
-## Hi there 👋
+# BITA 프로젝트 목차
+1. [프로젝트 소개](#프로젝트-소개)
+2. [시스템 아키텍처](#시스템-아키텍처)
+3. [기술 스택](#TECH-STACKS)
+5. [문서화](#문서)
+5. [기능 소개](#기능-소개)
+6. [팀 소개](#팀-소개)
 
 
 
+# BITA
+<div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/abec01cb-b132-4801-8c92-0eb096699345"></div>
+
+
+# 시스템 아키텍처
+<div align="center"><img src="https://github.com/Break-it-all/.github/assets/83001865/326d8bea-7cd3-485f-bbf9-b94daf6e13cc"></div>
+
+
+
+# 기능 소개
 회원가입
 ![회원가입](https://github.com/Break-it-all/.github/assets/83001865/4f8529f1-4cdd-4151-90f1-e859619ebc13)
 
